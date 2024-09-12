@@ -1,0 +1,11 @@
+no,umur,gender_endcode,kota_bangkalan,kota_pamekasan,kota_sampang,kota_surabaya
+1,"23,00",1,False,True,False,False
+2,"21,00",1,False,False,False,True
+3,"25,00",0,True,False,False,False
+4,"22,00",1,True,False,False,False
+5,"21,00",0,False,False,False,True
+6,"45,00",1,False,True,False,False
+7,"45,00",0,False,False,True,False
+8,"25,00",0,False,False,True,False
+9,"24,00",0,False,True,False,False
+10,"27,00",1,False,False,False,True
